@@ -1,10 +1,10 @@
 # Bottlexp
 paper 1.21.4 XP bottling plugin
 ## Usage
-/bottlexp <all>
+/bottlexp \<all\>
 プレイヤーのすべての経験値をボトリングします。
 
-/bottlexp <amount>
+/bottlexp \<amount\>
 指定個数のエンチャント瓶に変換します。
 
 ## Specification
