@@ -1,0 +1,9 @@
+name: bottlexp
+version: '1.0'
+main: run.saba.bottlexp.Bottlexp
+api-version: '1.21'
+author: 10nm
+commands:
+  bottlexp:
+    description: 獲得した経験値をエンチャント瓶に変換します。
+    usage: /bottlexp [amount | all]
